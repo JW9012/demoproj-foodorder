@@ -1,6 +1,5 @@
 # Food Ordering System
-
-### Published URL: jwdemo.azurewebsites.net
+## Published URL: [jwdemo.azurewebsites.net](https://jwdemo.azurewebsites.net)
 
 A web application for ordering food online, featuring authentication, payment integration, and Azure services etc.
 
